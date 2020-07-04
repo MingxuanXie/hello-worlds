@@ -22,4 +22,4 @@ com.unity.ide.vscode@1.2.1
 com.unity.connect.share@2.0.2-preview.4
 com.unity.webrtc@2.0.3-preview
 com.unity.xr.interactionsubsystems@1.0.1
-Unity-WebXR-Export@2.0
+Hello Worlds@2.0
